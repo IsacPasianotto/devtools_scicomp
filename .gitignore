@@ -221,3 +221,9 @@ cython_debug/
 
 # DS_Store for Mac users
 .DS_Store
+
+
+# Vagrant directory
+
+Vagrant/.vagrant/
+Vagrant/scripts/00-bash_common_provisioning.sh
